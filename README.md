@@ -150,7 +150,7 @@ Cara Menjalankan Program
 
 Clone repository:
 ```java
-git clone https://github.com/username/nama-repo.git
+git clone https://github.com/SzukoD/Aplikasi-Paket-Wisata-Java.git
 ```
 
 Buka di NetBeans / VSCode / IntelliJ
